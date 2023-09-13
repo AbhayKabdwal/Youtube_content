@@ -230,6 +230,6 @@ The value of y is 20
 ## Contact Me
 
 - Author -- Abhay Kabdwal -- Nerdy_Innovator
-- **_[Youtube](https://www.youtube.com/@abhaykabdwal2911/featured)_**
+- **_[Youtube](https://www.youtube.com/@doctor_innovator/featured)_**
 - **_[Discord](https://discord.gg/7ydGD3aJ)_**
 - **_[Telegram](https://t.me/doctor_innovator)_**
