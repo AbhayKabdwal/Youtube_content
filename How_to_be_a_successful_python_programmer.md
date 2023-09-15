@@ -70,15 +70,37 @@ Python is a powerful and versatile programming language that can help you achiev
 
 - Some of the fields that you can choose from are:
       
-        - Machine learning: This is the field of computer science that deals with creating systems that can learn from data and perform tasks such as classification, regression, clustering, recommendation, natural language processing, computer vision, etc. You can learn machine learning with Python from [this course], [this book], or [this website].
+        - Machine learning: This is the field of computer 
+        science that deals with creating systems that can learn 
+        from data and perform tasks such as classification, 
+        regression, clustering, recommendation, natural 
+        language processing, computer vision, etc. You can 
+        learn machine learning with Python from the book 
+        Hands_On_Machine_Learning_with_Scikit_Learn,_Keras,_and_Tensorflow
 
-        - Artificial intelligence: This is the field of computer science that deals with creating systems that can exhibit human-like intelligence and behavior such as reasoning, planning, problem-solving, creativity, etc. You can learn artificial intelligence with Python from [this book], [this course], or [this website].
+        - Artificial intelligence: This is the field of 
+        computer science that deals with creating systems that 
+        can exhibit human-like intelligence and behavior such 
+        as reasoning, planning, problem-solving, creativity, 
+        etc.
   
-        - Data science: This is the field of science that deals with collecting, analyzing, visualizing, and communicating data to gain insights and make decisions. You can learn data science with Python from [this book], [this course], or [this website].
+        - Data science: This is the field of science that deals 
+        with collecting, analyzing, visualizing, and 
+        communicating data to gain insights and make decisions. 
+        You can learn data science with Python from the book 
+        Python for Data Analysis_ Data Wrangling with Pandas, Numpy, and Ipython
         
-        - Back end development: This is the field of web development that deals with creating the server-side logic and functionality of web applications such as databases, APIs, authentication, security, etc. You can learn back end development with Python from [this book], [this course], or [this website].
+        - Back end development: This is the field of web 
+        development that deals with creating the server-side 
+        logic and functionality of web applications such as 
+        databases, APIs, authentication, security, etc.
   
-        - Other fields: There are many other fields that you can specialize in with Python such as game development, desktop GUI, scientific computing, web scraping, automation, etc. You can find more resources and projects for these fields on Awesome Python.
+        - Other fields: There are many other fields that you 
+        can specialize in with Python such as game development, 
+        desktop GUI, scientific computing, web scraping, 
+        automation, etc. You can find more resources and 
+        projects for these fields on Awesome Python.
+
   ## Work on more open source projects on the field you specialized
   
   - After you have chosen a field that you want to specialize in, you can work on more open source projects that are related to that field.
