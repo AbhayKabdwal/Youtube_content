@@ -37,3 +37,13 @@ Using Git in terminal can seem daunting at first, but once you get the hang of i
 - For mac user [guide](How_to_install_git_on_mac.md)
 
 - For linux user [guide](How_to_install_git_on_linux.md)
+
+## Thank You
+- Excited for more ? Subscribe the channel and hit the bell icon to recieve notifications of further contents. Also join my discord server and telegram channel for updates and resources.
+
+## Contact Me
+
+- Author -- Abhay Kabdwal -- Nerdy_Innovator
+- **_[Youtube](https://www.youtube.com/@doctor_innovator/featured)_**
+- **_[Discord](https://discord.gg/7ydGD3aJ)_**
+- **_[Telegram](https://t.me/doctor_innovator)_**
