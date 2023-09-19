@@ -156,7 +156,7 @@ Remember that making mistakes is a natural part of programming. The key is to le
 
 ## Contact Me
 
-- Author -- Abhay Kabdwal -- Nerdy_Innovator
+- Author -- Abhay Kabdwal -- Doctor_Innovator
 - **_[Youtube](https://www.youtube.com/@doctor_innovator/featured)_**
 - **_[Discord](https://discord.gg/7ydGD3aJ)_**
 - **_[Telegram](https://t.me/doctor_innovator)_**
