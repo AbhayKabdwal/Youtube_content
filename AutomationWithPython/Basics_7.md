@@ -93,7 +93,7 @@ with open('textfile.txt', 'r') as text_file:
 ### 6. Working with Binary Files
 Binary files store data in a non-human-readable format.
 
-#### Example 1: Reading and Writing Binary Files
+#### Example : Reading and Writing Binary Files
 ```python
 with open('binaryfile.bin', 'wb') as binary_file:
     binary_data = bytes([0x48, 0x65, 0x6C, 0x6C, 0x6F])
@@ -110,7 +110,7 @@ Using the `with` statement is recommended because it automatically closes files.
 ### 8. File Navigation and Location
 Python provides methods for navigating and locating files.
 
-#### Example 1: Checking File Existence
+#### Example : Checking File Existence
 ```python
 import os
 
@@ -120,7 +120,7 @@ else:
     print('File does not exist.')
 ```
 
-#### Example 2: Listing Files in a Directory
+#### Example : Listing Files in a Directory
 ```python
 import os
 
@@ -132,7 +132,7 @@ for file_name in files_in_directory:
 ### 9. File Information
 You can obtain information about files, such as size and modification time.
 
-#### Example 1: Getting File Size and Modification Time
+#### Example : Getting File Size and Modification Time
 ```python
 import os
 
@@ -142,3 +142,20 @@ print(f'Modification Time: {file_info.st_mtime}')
 ```
 
 These basics of file management in Python should provide a solid foundation for working with files in your Python programs.
+
+## Thank You
+- Excited for more ? Subscribe the channel and hit the bell icon to recieve notifications of further contents.
+
+## Next up in the series
+
+- Basics of python continued
+    
+    + Regular expressions in python
+
+
+## Contact Me
+
+- Author -- Abhay Kabdwal -- Doctor_Innovator
+- **_[Youtube](https://www.youtube.com/@doctor_innovator/featured)_**
+- **_[Discord](https://discord.gg/7ydGD3aJ)_**
+- **_[Telegram](https://t.me/doctor_innovator)_**
